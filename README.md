@@ -1,17 +1,24 @@
-# login_ui
+# 📱 Rigister UI (Flutter)
 
-A new Flutter project.
-![screenshot](https://github.com/USERNAME/REPO_NAME/blob/main/assets/LoginScreen/1.jpg?raw=true)
+This is a simple, clean Flutter UI for login and registration screens.  
+Designed to be lightweight, responsive, and easily extendable.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🖼️ Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### 🔐 Login Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/Mostafa-Hani19/RigisterUI/blob/main/assets/images/loginScreen.jpg?raw=true" width="300"/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📝 Register Screen
+
+<img src="https://github.com/Mostafa-Hani19/RigisterUI/blob/main/assets/images/rigisterScreen.jpg?raw=true" width="300"/>
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Mostafa-Hani19/RigisterUI.git
